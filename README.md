@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohamed Abohend</h1>
-<h3 align="center">Web Developer</h3>
+<h1 align="center">Hi 👋</h1>
 
-<img align="right" alt="Coding" width="380" src="profile.png">
+<img align="right" alt="Coding" src="profile.png">
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=abohend&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
